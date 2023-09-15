@@ -1,0 +1,25 @@
+.timerBtn{
+    background-color: black;
+    color: white;
+    border: 3px solid;
+    border-radius: 12px;
+    width: 7vw;
+    height: 6vh;
+    cursor: pointer;
+    font-family: consolas, monospace;
+}
+
+#watch{
+    font-size: 80px;
+    color: green;
+    font-family: consolas, monospace;
+}
+
+#timeContanier{
+    text-align: center;
+    border: 3px solid;
+    border-radius: 12px;
+    width: 33vw;
+    height: 29vh;
+    background-color: #222222;
+}
