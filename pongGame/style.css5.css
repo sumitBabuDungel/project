@@ -11,10 +11,6 @@ body{
 #gameBoard{
     text-align: center;
     border: 6px solid white;
-    /*background-image: url(img2.png);
-    background-repeat: no-repeat;
-    background-position: center -81px;
-    background-size: cover;*/
 }
 
 .scoreText{
